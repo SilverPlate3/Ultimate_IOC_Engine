@@ -16,9 +16,9 @@ After that you should remove the "built in" API Key!
 
 How can you add API keys?  
 ↓  
-1) Create a user for each of the IOC engines. This will take you 10 minutes.
+1) Create a user for each of the IOC engines. This will take you 10 minutes.  
 Signup to VirusTotal  -  https://www.virustotal.com/gui/join-us  
-SignuP to AlienVault  -  https://otx.alienvault.com/  
+Signuu to AlienVault  -  https://otx.alienvault.com/  
 Signup to HybridAnalysis  -  https://www.hybrid-analysis.com/signup  
 Signup to MalwareBazaar  -  https://bazaar.abuse.ch/   (You must have a twitter account for this)  
 Signup to IPabuseDB   -   https://www.abuseipdb.com/register?plan=free    
