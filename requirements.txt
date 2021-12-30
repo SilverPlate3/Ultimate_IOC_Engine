@@ -1,0 +1,12 @@
+requests
+json
+time
+threading
+os
+random
+subprocess
+datetime
+shutil
+dearpygui
+hashlib
+easygui
