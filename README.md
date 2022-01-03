@@ -29,6 +29,6 @@ Singup to URLhaus   -    No need for an API key
 3) Add the API key's into their corresponding lists in the API_keys.py file.  
 
 
-#important to acknowledge
+# Important to acknowledge
 User agent - In every API, I specified that the User Agent of the machine is *Mozilla 5.0* as it's the most widely used.  
 If this isn't the case on your machine please change EVERY API function in the files: search_hash.py, search_IP.py, search_URL.py
